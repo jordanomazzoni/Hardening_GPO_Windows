@@ -1,5 +1,6 @@
 
-![alt text](image-1.png)
+<img width="1279" height="720" alt="image" src="https://github.com/user-attachments/assets/a4ae2262-01a6-4fe2-a38e-267c45f5aab8" />
+
 
 Windows - Hardening Básico - Part 99 - Lock Screen
 
@@ -16,9 +17,9 @@ Para definir a configuração recomendada via Política de Grupo, defina o segui
 
 Computer Configuration\Policies\Administrative Templates\Control Panel\Personalization\Prevent enabling lock screen camera
 
-![alt text](image-2.png)
+<img width="1428" height="823" alt="image" src="https://github.com/user-attachments/assets/c7f0daa7-b9df-4a65-8305-5957a0c0e10d" />
 
-Adicionar legenda (opcional)
+
 Garanta que 'Prevent enabling lock screen slide show' esteja atribuido como 'Enabled'
 
 Desativa a apresentação de slides na tela de bloqueio nas Configurações do PC e impede que a apresentação de slides seja exibida na tela de bloqueio.
@@ -31,6 +32,6 @@ Para definir a configuração recomendada via Política de Grupo, defina o segui
 
 Computer Configuration\Policies\Administrative Templates\Control Panel\Personalization\Prevent enabling lock screen slide show
 
-![alt text](image-4.png)
+<img width="1429" height="813" alt="image" src="https://github.com/user-attachments/assets/96b39a16-a79d-411e-b9ef-a5d3d4d2d2d9" />
 
 Salve este post como parte do seu checklist de hardening Windows.
