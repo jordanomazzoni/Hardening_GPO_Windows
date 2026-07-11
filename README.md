@@ -94,3 +94,59 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 [Windows - Hardening Básico - Part 58 - Microsoft Support Diagnostic Tool]()
 
 [Windows - Hardening Básico - Part 57 - Boot-Start Driver Initialization]()
+
+[Windows - Hardening Básico - Part 56 - Time Providers]()
+
+[Windows - Hardening Básico - Part 55 - Account - Administrator - Guest]()
+
+[Windows - Hardening Básico - Part 54 - NTLM - Public Key Cryptography Based User-to-User (PKU2U)]()
+
+[Windows - Hardening Básico - Part 53 - Local Security Authority]()
+
+[Windows - Hardening Básico - Part 52 - Lockout Policy]()
+
+[Windows - Hardening Básico - Part 51 - Remote Desktop Session]()
+
+[Windows - Hardening Básico - Part 50 - KMS Client Online AVS Validation]()
+
+[Windows - Hardening Básico - Part 49 - User - Prevent Codec Download]()
+
+[Windows - Hardening Básico - Part 48 - RPC Endpoint Mapper Client Authentication - Restrict Unauthenticated RPC clients]()
+
+[Windows - Hardening Básico - Part 47 - Allow network connectivity during Standby]()
+
+[Windows - Hardening Básico - Part 46 - 18 serviços]()
+
+[Windows - Hardening Básico - Part 45 - NTLMv2 session security - 128-bit encryption]()
+
+[Windows - Hardening Básico - Part 44 - Encryption types allowed for Kerberos]()
+
+[Windows - Hardening Básico - Part 42 - LocalSystem NULL session fallback]()
+
+[Windows - Hardening Básico - Part 41 - Interactive logon - Number of previous logons to cache]()
+
+[Windows - Hardening Básico - Part 40 - Clipboard synchronization across devices - Upload of User Activities]()
+
+[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()]
+
+[Windows - Hardening Básico - Part 38 - SAM change password RPC methods policy]()]
+
+[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()]
+
+[Windows - Hardening Básico - Part 39 - Biometrics - Facial anti-spoofing]()]
+
+[Windows - Hardening Básico - Part 37 - PowerShell Script Block Logging - PowerShell Transcription]()]
+
+[Windows - Hardening Básico - Part 36 - Prohibit connection to non-domain networks when connected to domain authenticated network]()]
+
+[Windows - Hardening Básico - Part 35 - LAPS - Windows Local Administrator Password Solution]()]
+
+[Windows - Hardening Básico - Part 34 - RPC over TCP port - PC packet level privacy]()]
+
+[Windows - Hardening Básico - Part 33 - Print Spooler to accept client connections]()]
+
+[Windows - Hardening Básico - Part 32 - anonymous enumeration - storage of passwords and credentials]()]
+
+[Windows - Hardening Básico - Part 31 - (LLTDIO) driver + (RSPNDR) driver]()]
+
+[Windows - Hardening Básico - Part 30 - Advanced Audit Policy - System]()]
