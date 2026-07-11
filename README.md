@@ -14,3 +14,5 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 [Windows - Hardening Básico - Part 98 - User Profiles](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2098%20-%20User%20Profiles.md)
 
 [Windows - Hardening Básico - Part 97 - Windows Defender Firewall + DNS](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2097%20-%20Windows%20Defender%20Firewall%20%2B%20DNS.md)
+
+[Windows - Hardening Básico - Part 96 - Fonts - Messaging + Providers](https://github.com/jordanomazzoni-aju/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2097%20-%20Windows%20Defender%20Firewall%20%2B%20DNS.md)
