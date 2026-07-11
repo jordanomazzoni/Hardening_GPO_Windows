@@ -150,3 +150,63 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 [Windows - Hardening Básico - Part 31 - (LLTDIO) driver + (RSPNDR) driver]()
 
 [Windows - Hardening Básico - Part 30 - Advanced Audit Policy - System]()
+
+[Windows - Hardening Básico - Part 29 - Advanced Audit Policy - Policy Change - Privilege Use]()
+
+[Windows - Hardening Básico - Part 28 - Advanced Audit Policy - Logon/Logoff]()
+
+[Windows - Hardening Básico - Part 27 - Advanced Audit Policy - Account Logon - Object Access]()
+
+[Windows - Hardening Básico - Part 26 - Advanced Audit Policy - Account Management - Detailed Tracking]()
+
+[Windows - Hardening Básico - Part 25 - Firewall - Public Profile]()
+
+[Windows - Hardening Básico - Part 24 - Firewall - Private Profile]()
+
+[Windows - Hardening Básico - Part 23 - Firewall - Domain Profile]()
+
+[Windows - Hardening Básico - Part 22 - Log on as a batch job - Log on as a service]()
+
+[Windows - Hardening Básico - Part 21 - AppxPackage]()
+
+[Windows - Hardening Básico - Part 20 - Server SPN target name validation level]()
+
+[Windows - Hardening Básico - Part 19 - Windows Installer]()
+
+[Windows - Hardening Básico - Part 18 - Windows Defender SmartScreen]()
+
+[Windows - Hardening Básico - Part 17 - Send NTLMv2 response only. Refuse LM & NTLM]()
+
+[Windows - Hardening Básico - Part 16 - NTLMv2 session security, Require 128-bit encryption]()
+
+[Windows - Hardening Básico - Part 15 - Impedir que os usuários compartilhem arquivos em seus perfis]()
+
+[Windows - Hardening Básico - Part 14 - Audit Process Creation + Audit Policy Subcategory]()
+
+[Windows - Hardening Básico - Part 13 - Serviços WMPNetworkSvc - upnphost - SSDPSRV - RpcLocator]()
+
+[Windows - Hardening Básico - Part 12 - Polêmico Bloqueio de Pendrive]()
+
+[Windows - Hardening Básico - Part 11 - Internet Communication settings]()
+
+[Windows - Hardening Básico - Part 10 - Digitally sign communications (always)]()
+
+[Windows - Hardening Básico - Part 09 - Network access: Restrict clients allowed to make remote calls to SAM]()
+
+[Windows - Hardening Básico - Part 08 - Impedir que aplicativos do Windows sejam ativados por voz enquanto o sistema estiver bloqueado]()
+
+[Windows - Hardening Básico - Part 07 - Windows Remote Management (WinRM)]()
+
+[Windows - Hardening Básico - Part 06 - Cortana (OS ITEMS 2 e 3 são F....)]()
+
+[Windows - Hardening Básico - Part 05 - 'Minimize the number of simultaneous connections to the Internet or a Windows Domain']()
+
+[Windows - Hardening Básico - Part 04 - Wi-Fi Sense]()
+
+[Windows - Hardening Básico - Part 03 - System Services - Windows Mobile Hotspot Service (icssvc)]()
+
+[Windows - Hardening Básico - Part 02 - System Services - XBox]()
+
+[Windows - Hardening Básico - Part 01 - Remote Assistance]()
+
+[Atenção, nem todo Event ID 4625 é igual]()
