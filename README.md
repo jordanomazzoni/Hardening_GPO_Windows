@@ -31,7 +31,7 @@ Voltado para administradores de sistemas e profissionais de segurança, o projet
 
 [Windows - Hardening Básico - Part 89 - Handwriting personalization](https://github.com/jordanomazzoni/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2089%20-%20Handwriting%20personalization.md)
 
-[Windows - Hardening Básico - Part 88 - User Rights Assignment - part03]()
+[Windows - Hardening Básico - Part 88 - User Rights Assignment - part03](https://github.com/jordanomazzoni/Hardening_GPO_Windows/blob/main/Windows%20-%20Hardening%20B%C3%A1sico%20-%20Part%2088%20-%20User%20Rights%20Assignment%20-%20part03.md)
 
 [Windows - Hardening Básico - Part 87 - User Rights Assignment - part02]()
 
